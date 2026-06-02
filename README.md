@@ -31,7 +31,7 @@ Infrastructure and Linux enthusiast focused on automation, enterprise environmen
 * Active Directory
 * PowerShell
 * Bash
-* Huawei S5720
+* Huawei
 * VLAN / LACP / Stack
 * Open WebUI
 * Ollama
