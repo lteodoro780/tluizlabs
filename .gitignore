@@ -1,0 +1,26 @@
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets.json
+
+# Generated data and reports
+*.sqlite3
+*.db
+*.sql
+*.dump
+*.log
+
+# Local environment
+.venv/
+venv/
+__pycache__/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
