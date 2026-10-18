@@ -53,7 +53,7 @@ vlan 10
  quit
 
 interface Vlanif 10
- ip address 192.168.100.94 255.255.255.0
+ ip address 192.0.2.94 255.255.255.0
  quit
 ```
 
