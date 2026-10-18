@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Substituir instalações de Windows não licenciado em um parque de mais de 300 máquinas por Kubuntu, com integração completa ao domínio Active Directory (autenticação, GPO, antivírus, atualizações e impressoras).
+Migrar um parque de mais de 300 estações de trabalho para Kubuntu, padronizando o ambiente com software livre e com integração completa ao domínio Active Directory (autenticação, GPO, antivírus, atualizações e impressoras).
 
 ## Escala
 
@@ -85,7 +85,7 @@ A configuração de impressoras seguiu uma lógica parecida com a do hostname: u
 
 ## Resultado
 
-- Eliminação do uso de Windows não licenciado em mais de 300 estações.
+- Mais de 300 estações migradas para Kubuntu e padronizadas com software livre.
 - Antivírus, atualizações e impressoras centralizados e automatizados via GPO.
 - Conflito de hostname/DHCP identificado e resolvido via automação.
 
